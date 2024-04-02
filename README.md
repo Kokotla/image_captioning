@@ -16,5 +16,5 @@ The code can be ran using the command below.
 python getCaption.py -i ./images/IMG-20220617-WA0058.jpg
 ```
 The results of the example is given below.
-(https://github.com/Kokotla/image_captioning/blob/main/res/sample_image.png)
+[Example](https://github.com/Kokotla/image_captioning/blob/main/res/sample_image.png)
 
