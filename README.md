@@ -21,3 +21,6 @@ The results of the example is given below.
 ![Example](https://github.com/Kokotla/image_captioning/blob/main/res/sample_image.png)
 
 The caption is close.
+
+## References
+The code was taken and modified from [kaggle submission](https://www.kaggle.com/code/mdteach/image-captioning-with-attention-pytorch).
