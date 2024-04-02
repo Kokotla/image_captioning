@@ -15,7 +15,7 @@ def save_image(inp, title=None):
     plt.axis('off')  # Turn off axis numbers and ticks
 
     # Save the image using matplotlib.pyplot.imsave()
-    plt.savefig('sample_image.png')
+    plt.savefig('./res/sample_image.png')
     plt.pause(0.001)
 
 
